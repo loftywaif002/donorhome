@@ -9,13 +9,13 @@
 #after cloning the project, cd donorhome
 
 1. Xcode
-2. Node.js 
- brew update
- brew install node 
- brew upgrade node  (for upgrading node)
+2. Node.js <br/>
+ brew update <br />
+ brew install node <br />
+ brew upgrade node  (for upgrading node) <br />
 3. brew install watchman
 
-4. npm install -g react-native-cli 
+4. npm install -g react-native-cli <br />
 
 5. Running on android Guidelines -> comming soon
 
@@ -40,3 +40,14 @@ Go to: Project->node_modules->React->Views->RCTScoolView.m
 } <br/>
 
 Suggestion : Use DECO!
+
+<br />
+<h3>If Not Using Deco</h3>
+In the donorHome Directory do npm start <br />
+Go to:  donorhome-> ios <br />
+Double click donorhome.xcodeproj <br />
+The app will run on xcode <br />
+Then press the play button on the upper left corner
+
+
+
