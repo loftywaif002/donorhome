@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Profiler/RCTProfileTrampoline-arm64.S \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Profiler/RCTMacros.h
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Profiler/RCTProfileTrampoline-arm64.S \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Profiler/RCTMacros.h

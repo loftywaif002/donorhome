@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.m \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.m \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.h \
   ../../React/Base/RCTURLRequestHandler.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
   ../../React/Base/RCTURLRequestDelegate.h \

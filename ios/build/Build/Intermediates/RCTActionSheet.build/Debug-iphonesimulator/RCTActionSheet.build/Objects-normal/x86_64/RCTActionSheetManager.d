@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.m \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.m \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheetManager.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
   ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \

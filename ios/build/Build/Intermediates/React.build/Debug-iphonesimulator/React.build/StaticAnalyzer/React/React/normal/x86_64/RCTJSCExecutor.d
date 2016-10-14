@@ -1,21 +1,21 @@
 dependencies: \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Executors/RCTJSCExecutor.m \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Modules/RCTDevMenu.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Modules/RCTRedBox.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Modules/RCTSourceCode.h
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Executors/RCTJSCExecutor.m \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Modules/RCTSourceCode.h

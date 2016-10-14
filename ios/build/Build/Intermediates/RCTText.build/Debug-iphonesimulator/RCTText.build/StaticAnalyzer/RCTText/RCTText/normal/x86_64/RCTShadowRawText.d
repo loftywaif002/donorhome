@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Text/RCTShadowRawText.m \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Text/RCTShadowRawText.m \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
   ../../React/Views/RCTShadowView.h ../../React/Layout/Layout.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTRootView.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \

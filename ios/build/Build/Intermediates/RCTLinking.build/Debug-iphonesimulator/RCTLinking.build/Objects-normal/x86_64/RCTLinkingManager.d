@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.m \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.m \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \

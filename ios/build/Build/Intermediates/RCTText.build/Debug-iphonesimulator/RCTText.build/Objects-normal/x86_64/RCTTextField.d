@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Text/RCTTextField.m \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Text/RCTTextField.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Text/RCTTextField.m \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Text/RCTTextField.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTConvert.h \
   ../../React/Layout/Layout.h ../../React/Views/RCTAnimationType.h \
   ../../React/Views/RCTBorderStyle.h \

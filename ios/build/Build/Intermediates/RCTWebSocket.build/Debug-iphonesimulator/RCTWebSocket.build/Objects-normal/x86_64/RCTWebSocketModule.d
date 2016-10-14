@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.m \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.m \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
-  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \
   ../../React/Base/RCTJavaScriptExecutor.h \

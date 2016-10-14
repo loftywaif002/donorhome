@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/Dipro/bloodDonR/donorhome/ios/donorhome/AppDelegate.m \
-  /Users/Dipro/bloodDonR/donorhome/ios/donorhome/AppDelegate.h \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/ios/donorhome/AppDelegate.m \
+  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/ios/donorhome/AppDelegate.h \
   ../node_modules/react-native/React/Base/RCTRootView.h \
   ../node_modules/react-native/React/Base/RCTBridge.h \
   ../node_modules/react-native/React/Base/RCTBridgeDelegate.h \
