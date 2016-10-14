@@ -1,0 +1,15 @@
+{
+  "name": "donorhome",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "firebase": "^3.4.1",
+    "react": "^0.14.8",
+    "react-native": "0.24.0",
+    "react-native-gifted-spinner": "^0.1.0",
+    "react-native-side-menu": "^0.20.1"
+  }
+}
