@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Image/RCTImageViewManager.m \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Image/RCTImageViewManager.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Image/RCTImageViewManager.m \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Image/RCTImageViewManager.h \
   ../../React/Views/RCTViewManager.h ../../React/Base/RCTBridgeModule.h \
   ../../React/Base/RCTDefines.h ../../React/Base/RCTConvert.h \
   ../../React/Layout/Layout.h ../../React/Views/RCTAnimationType.h \
@@ -12,10 +12,10 @@ dependencies: \
   ../../React/Base/RCTBridgeDelegate.h ../../React/Base/RCTFrameUpdate.h \
   ../../React/Base/RCTInvalidating.h \
   ../../React/Base/RCTJavaScriptExecutor.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
   ../../React/Base/RCTURLRequestHandler.h \
   ../../React/Base/RCTURLRequestDelegate.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
   ../../React/Base/RCTImageSource.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Image/RCTImageView.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Image/RCTImageView.h \
   ../../React/Views/RCTImageComponent.h

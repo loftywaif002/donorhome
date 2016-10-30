@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Text/RCTShadowText.m \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Text/RCTShadowText.m \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Text/RCTShadowText.h \
   ../../React/Views/RCTShadowView.h ../../React/Layout/Layout.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTRootView.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
@@ -15,6 +15,6 @@ dependencies: \
   ../../React/Base/RCTAssert.h ../../React/Views/RCTPointerEvents.h \
   ../../React/Base/RCTEventDispatcher.h \
   ../../React/Views/RCTImageComponent.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Text/RCTText.h \
   ../../React/Base/RCTUtils.h

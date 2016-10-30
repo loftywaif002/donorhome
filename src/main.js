@@ -47,8 +47,7 @@ module.exports = React.createClass({
         initialRoute={{name: 'signin'}} //The first scene user will see
         renderScene={this.renderScene}
         //Handles the animation
-        configureScene={()=>{return Navigator.SceneConfigs.FloatFromRight;}}
-       />
+        configureScene={()=>{return Navigator.SceneConfigs.FloatFromRight;}} />
     );
   }
 });

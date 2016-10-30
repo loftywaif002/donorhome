@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Image/RCTShadowVirtualImage.m \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Image/RCTShadowVirtualImage.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Image/RCTShadowVirtualImage.m \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Image/RCTShadowVirtualImage.h \
   ../../React/Views/RCTShadowView.h ../../React/Layout/Layout.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTRootView.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
@@ -14,10 +14,10 @@ dependencies: \
   ../../React/Views/RCTTextDecorationLineType.h \
   ../../React/Base/RCTLog.h ../../React/Base/RCTAssert.h \
   ../../React/Views/RCTPointerEvents.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
   ../../React/Base/RCTURLRequestHandler.h \
   ../../React/Base/RCTURLRequestDelegate.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
   ../../React/Modules/RCTUIManager.h ../../React/Views/RCTViewManager.h \
   ../../React/Base/RCTEventDispatcher.h ../../React/Base/RCTUtils.h

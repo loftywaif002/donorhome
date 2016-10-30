@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Image/RCTResizeMode.m \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Image/RCTResizeMode.m \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
   ../../React/Base/RCTConvert.h ../../React/Layout/Layout.h \
   ../../React/Views/RCTAnimationType.h \
   ../../React/Views/RCTBorderStyle.h \

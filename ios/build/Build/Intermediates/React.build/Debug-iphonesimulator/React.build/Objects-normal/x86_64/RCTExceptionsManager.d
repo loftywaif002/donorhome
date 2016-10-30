@@ -1,20 +1,20 @@
 dependencies: \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Modules/RCTExceptionsManager.m \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Modules/RCTExceptionsManager.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Layout/Layout.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Modules/RCTRedBox.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
-  /Users/AbhiReddyMusku/Desktop/BlooDonR1/donorhome/node_modules/react-native/React/Base/RCTRootView.h
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Modules/RCTExceptionsManager.m \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Modules/RCTExceptionsManager.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Layout/Layout.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/Dipro/bloodDonR/donorhome/node_modules/react-native/React/Base/RCTRootView.h

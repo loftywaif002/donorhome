@@ -6,13 +6,16 @@ import {
   View,
   StyleSheet,
   TextInput,
-  Image
+  Image,
+  AlertIOS,
+  AsyncStorage,
+  ActivityIndicatorIOS
 } 
 from 'react-native';
-//Import Firebase
-  const firebase = require("firebase");
 
 var Button = require('../common/button');
+
+
 
 module.exports = React.createClass({
   getInitialState: function(){
@@ -20,9 +23,82 @@ module.exports = React.createClass({
 	 		email: '',
 	 		passsword:'',
 	 		passwordConfirmation: '',
-            errorMessage: ''
+      username: '',
+      errors: [],
 	 	};
 	 },
+
+   async storeToken(accessToken) {
+    try {
+        await AsyncStorage.setItem(ACCESS_TOKEN, accessToken);
+        console.log("Token was stored successfull ");
+    } catch(error) {
+        console.log("Something went wrong");
+    }
+  },
+
+   async onSignupPress(){
+    //if(this.state.password!=this.state.passwordConfirmation){
+        //return this.setState({errorMessage:'Your password do not match'})
+      //}
+    try{
+
+      let response = await fetch('http://localhost:3000/api/users', {
+                              method: 'POST',
+                              headers: {
+                                'Accept': 'application/json',
+                                'Content-Type': 'application/json',
+                              },
+                              body: JSON.stringify({
+                                user:{
+                                  username: this.state.username,
+                                  email: this.state.email,
+                                  password: this.state.password,
+                                  password_confirmation: this.state.passwordConfirmation,
+                                }
+                              })
+                            });
+
+      let res = await response.text();
+      
+      if (response.status >= 200 && response.status < 300) {
+          
+          //Handle success
+          let accessToken = res;
+          console.log(accessToken);
+
+          //Storing the access_token in the AsyncStorage
+          this.storeToken(accessToken);
+          
+          AlertIOS.alert('Welcome to Donorhome!');
+
+
+        this.props.navigator.push({name: 'dashboard'}); 
+      } else {
+        let errors = res;
+        throw errors;
+      }
+
+    } catch(errors) {
+      
+      console.log("cought freakin errors: "+ errors);
+
+      //Find out how to parse JSON errors
+      let fieldErrors = JSON.parse(errors);
+      let errorsArray = [];
+      for(var key in fieldErrors) {
+        //If array is bigger than one we need to split it.
+        if(fieldErrors[key].length > 1) {
+            fieldErrors[key].map(error => errorsArray.push(`${key} ${error}`));
+        } else {
+            errorsArray.push(`${key} ${fieldErrors[key]}`);
+        }
+      }
+      this.setState({errors: errorsArray});
+    }
+
+  },
+   
   render: function(){
     return (
       <View style={styles.container}>
@@ -51,32 +127,38 @@ module.exports = React.createClass({
         onChangeText={(text)=> this.setState({passwordConfirmation: text})}
         style={styles.input}
         placeholder={"Password One More Time"}/>
+
+        <Text style={styles.label}>Username:</Text>
+        <TextInput        
+        value={this.state.username}
+        onChangeText={(text)=> this.setState({username: text})}
+        style={styles.input}
+        placeholder={"Username"}/>
         
         <Text style={styles.label}>{this.state.errorMessage}</Text> 
         <Button text={'SignUp'} onPress={this.onSignupPress}/>
         <Button text={'I have an account'} onPress={this.onSigninPress}/>
+
+        <ErrorMessage errors={this.state.errors}/>
+
       </View>
     );
   },
-  
-  onSignupPress: function(){
-    if(this.state.password!=this.state.passwordConfirmation){
-          return this.setState({errorMessage:'Your password do not match'})
-    	}
-    //Create new User here
-    firebase.auth().createUserWithEmailAndPassword(this.state.email, this.state.password).catch(function(error) {
-     // Handle Errors here.
-     var errorCode = error.code;
-     var errorMessage = error.message;
-      //If no error, the redirect to dashboard
-      
-  });
-  this.props.navigator.push({name: 'dashboard'});
-},
+
   onSigninPress: function(){
     	this.props.navigator.pop();
     }
 });
+
+const ErrorMessage = (props) => {
+  return (
+    <View>
+
+      {props.errors.map((error, index) => <Text key={index} style={styles.error}> {error} </Text>)}
+
+    </View>
+  );
+}
 
 var styles = StyleSheet.create({
 	container: {

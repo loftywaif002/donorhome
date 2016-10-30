@@ -12,6 +12,8 @@ const { Component } = React;
 const window = Dimensions.get('window');
 const uri = 'https://pickaface.net/gallery/avatar/Opi51c74d0125fd4.png';
 
+var LogoutButton = require('../common/logoutButton');
+
 const styles = StyleSheet.create({
   menu: {
     flex: 1,
@@ -42,6 +44,7 @@ const styles = StyleSheet.create({
   },
 });
 
+
 module.exports = class Menu extends Component {
   static propTypes = {
     onItemSelected: React.PropTypes.func.isRequired,
@@ -68,7 +71,10 @@ module.exports = class Menu extends Component {
           style={styles.item}>
           Contacts
         </Text>
+        
+        <LogoutButton text={'Logout'} onPress={() => this.props.onItemSelected('Logout')}/>
+        
       </ScrollView>
     );
-  }
+  } 
 };
